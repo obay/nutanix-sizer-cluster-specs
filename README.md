@@ -33,7 +33,7 @@ NIC1 x 4-port 10GbE SFP+ Network Adapter
 GPUNone
 ```
 
-### 2. run the script...
+### 2. Run the script...
 
 ```bash
 ./run.sh
