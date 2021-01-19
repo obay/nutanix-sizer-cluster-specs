@@ -2,7 +2,7 @@
 
 If you are using Nutanix Sizer, you might have wanted to reformat the following block of text into something more text-friendly:
 
-![Screenshot of Nutanix Sizer](/images/sizer_screenshot.png&s=200)
+![Screenshot of Nutanix Sizer](/images/sizer_screenshot.png)
 
 This script will take the following example of a cluster specs, and reformat it into a nicer text that is copied to your clipboard so you can use in your technical proposal or other documentation easily.
 
