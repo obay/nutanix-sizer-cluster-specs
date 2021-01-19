@@ -28,3 +28,5 @@ HDD:		2 x 4TB 3.5"-A5-A HDD
 NIC:		1 x 4-port 10GbE SFP+ Network Adapter
 GPU:		None
 ```
+
+Fill the Cluster line with the cluster name and the Nodes line with the number of nodes in the cluster.
