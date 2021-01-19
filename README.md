@@ -15,6 +15,9 @@ GPUNone
 ```
 
 run the script...
+```bash
+./run.sh
+```
 
 You will have this in your clipboard instead
 ```
