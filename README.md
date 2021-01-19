@@ -16,7 +16,7 @@ NIC1 x 4-port 10GbE SFP+ Network Adapter
 GPUNone
 ```
 
-This script will take the previous example of a cluster specs, and reformat it into a nicer text that is copied to your clipboard so you can use in your technical proposal or other documentation easily.
+This script will take the previous example of a cluster specs, and reformat it into a nicer text that is copied to your clipboard so you can use it in your technical proposal or other documentation easily.
 
 ## Usage Steps
 
@@ -36,8 +36,11 @@ GPUNone
 ### 2. Run the script...
 
 ```bash
+git clone https://github.com/obay/nutanix-sizer-cluster-specs.git
+cd nutanix-sizer-cluster-specs
 ./run.sh
 ```
+You will need Python to be installed to run the script.
 
 ### 3. You will have this in your clipboard instead
 
